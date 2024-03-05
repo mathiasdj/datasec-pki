@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(2, 0, 27);
+}
+
+.lines {
+    height: 500px;
+    width: 500px;
+    border: white 2px solid;
+    margin: auto;
+    background-color: rgb(1, 0, 18);
+    background-image: paint(lines);
+    --amount: 1000;
+}
